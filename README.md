@@ -1,2 +1,2 @@
-# IS218Project
-IS218 - 001 Project 
+# IS218FinalProject
+Final project for IS218 - 001
